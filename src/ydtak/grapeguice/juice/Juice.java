@@ -1,4 +1,4 @@
-package ydtak.guiceexample.juice;
+package ydtak.grapeguice.juice;
 
 public interface Juice {
 

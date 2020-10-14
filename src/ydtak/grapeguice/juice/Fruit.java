@@ -1,4 +1,4 @@
-package ydtak.guiceexample.juice;
+package ydtak.grapeguice.juice;
 
 import com.google.auto.factory.AutoFactory;
 import com.google.auto.factory.Provided;

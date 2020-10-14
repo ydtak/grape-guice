@@ -1,4 +1,4 @@
-package ydtak.guiceexample;
+package ydtak.grapeguice;
 
 import com.google.inject.Guice;
 import com.google.inject.Injector;

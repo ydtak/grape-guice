@@ -1,7 +1,7 @@
-package ydtak.guiceexample;
+package ydtak.grapeguice;
 
 import com.google.inject.AbstractModule;
-import ydtak.guiceexample.juice.JuiceModule;
+import ydtak.grapeguice.juice.JuiceModule;
 
 public class ApplicationModule extends AbstractModule {
 
