@@ -1,9 +1,9 @@
 package ydtak.guiceexample;
 
+import ydtak.guiceexample.juice.Fruit;
 import ydtak.guiceexample.juice.FruitFactory;
 import ydtak.guiceexample.juice.Juice;
 import ydtak.guiceexample.juice.Juicy;
-import ydtak.guiceexample.juice.Fruit;
 
 import javax.inject.Inject;
 
