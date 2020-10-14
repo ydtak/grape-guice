@@ -1,2 +1,2 @@
 # Grape Guice
-An example Java project showcasing basic usage of [Guice](https://mvnrepository.com/artifact/com.google.inject/guice) for dependency injection. 
+An example Java project showcasing basic usage of [Guice](https://mvnrepository.com/artifact/com.google.inject/guice) for dependency injection (including use of [Autofactory](https://github.com/google/auto/tree/master/factory)). See comment in [Main.java](src/ydtak/guiceexample/Main.java) for instructions on setting up annotation processing on [IDEA](https://www.jetbrains.com/idea/).
